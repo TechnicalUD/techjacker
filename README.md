@@ -37,7 +37,9 @@ Command line bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. B
 # Install Instructions
 
 ## Instal Dependancies
-```npn i requirements.txt```
+```
+npm i requirements.txt
+```
 ## More Soon.
 
 ### Development Path

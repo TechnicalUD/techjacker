@@ -1,4 +1,5 @@
-
+const Database = require("@replit/database");
+const db = new Database();
 const readline = require('readline');
 console.log("[-] Hello World");
 console.log("[-] This is TechJacker Alpha (Unreleased)");
