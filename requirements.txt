@@ -1,1 +1,5 @@
 readline
+@replit/database
+@types/node
+express
+node-fetch

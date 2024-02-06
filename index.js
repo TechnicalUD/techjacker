@@ -1,6 +1,15 @@
 const Database = require("@replit/database");
 const db = new Database();
 const readline = require('readline');
+const express = require('express');
+const app = express();
+app.use(express.json());       
+app.use(express.urlencoded({extended: true})); 
+ app.use(express.static('Public'))
+app.get("/", (req, res) => {
+  res.sendFile(__dirname + "/Public/html/index.html");
+});
+
 console.log("[-] Hello World");
 console.log("[-] This is TechJacker Alpha (Unreleased)");
 console.log("[+] Type 'help' for a list of commands");
@@ -78,3 +87,6 @@ rl.question('[-] Please choose a command:', (answer) => {
 });
 }
 prompt();
+
+
+//app.listen(3000);
