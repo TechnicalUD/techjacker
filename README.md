@@ -33,6 +33,15 @@ Command line bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. B
 "try": "Attempts to execute the given code and catches any errors",
 "catch": "Catches any errors thrown by the given code",
 "throw": "Throws an error with the given message",
-
-
 ```
+# Install Instructions
+
+## Instal Dependancies
+```npn i requirements.txt```
+## More Soon.
+
+### Development Path
+```
+Completion Goal: March 12th
+```
+Alrighty, so if you can code you can tell I am far from finishing this. If not im almost there... ***heh***
