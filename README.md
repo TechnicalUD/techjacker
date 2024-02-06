@@ -1,4 +1,4 @@
-# techjacker
+# TechJacker
 Command line bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. Bypass Extentions. Possible new 0S and BF0S3R
 
 
@@ -43,7 +43,6 @@ npm i requirements.txt
 ## More Soon.
 
 ### Development Path
-```
-Completion Goal: March 12th
-```
+
+```Completion Goal: March 12th```
 Alrighty, so if you can code you can tell I am far from finishing this. If not im almost there... ***heh***
