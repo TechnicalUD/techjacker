@@ -1,5 +1,5 @@
 # TechJacker
-Command line bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. Bypass Extentions. Possible new 0S and BF0S3R
+HTML using commandline bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. Bypass Extentions. Possible new 0S and BF0S3R
 
 
 # Commands
