@@ -1,45 +1,52 @@
 # TechJacker
 Command line bypasser compatible with chrome os. Bypass AV. Bypass GoGuardian. Bypass Extentions. Possible new 0S and BF0S3R
 
+# What is this used for?
+
+This is a complex PAID and FREE backend for unblocking game websites. We use the ZADMIN Proxy and exploit the about:blank chrome page to make the website of origin unblockable unless shared. 
+
+# What are my plans?
+
+I am gonna make a games website, change the URL everyday and make it paid. 
+
+# How long will this take? 
+
+About a month if I keep the motiviation up.
 
 # Commands
 ```
-"help": "Displays a list of commands",
-"login": "Logs you in techjacker",
-"logout": "Logs you out of techjacker",
-"signup": "Signs you up for techjacker",
-"bypasses": "Displays a list of bypasses",
-"polls": "Displays the polls",
-"/": "Enables chat like mode",
-"global": "Enables global chat",
-"exit": "Exits the program",
-"clear": "Clears the console",
+help - Lists the possible commands
+ping - pings techjacker server
+panic - shuts down the website and makes it "educational". (Will also be able to change the URL on specific sites.)
+mask - forces all users to be in about:blank mode.
+jumpscare - Jumpscares the ONLINE users
 
-//Cmd Line Coding.
-"cmd-code": "Opens the command line to start command line coding",
-"echo": "Prints the given text",
-"print": "Prints the given text",
-"var": "Creates a variable with the given name and value",
-"set": "Sets the value of a variable",
-"get": "Gets the value of a variable",
-"if": "Executes the given code if the given condition is true",
-"while": "Executes the given code while the given condition is true",
-"for": "Executes the given code for the given number of times",
-"break": "Breaks out of the current loop",
-"continue": "Continues to the next iteration of the current loop",
-"function": "Creates a function with the given name and code",
-"call": "Calls a function with the given name and arguments",
-"return": "Returns the given value from a function",
-"try": "Attempts to execute the given code and catches any errors",
-"catch": "Catches any errors thrown by the given code",
-"throw": "Throws an error with the given message",
+exit - Stop running the website.
+rs - restarts website
 ```
+
 # Install Instructions
 
+## Start the project
+* Go to https://replit.com or use github code spaces
+* Login or Sign up.
+* Make a new project and click import from github (ReplIT)
+* Follow next instructions
+
+
+
+## Clone into TechJacker (ReplIt)
+```
+git clone https://github.com/TechnicalUD/techjacker.git
+```
+
 ## Instal Dependancies
+
 ```
 npm i requirements.txt
 ```
+
+
 ## More Soon.
 
 ### Development Path
